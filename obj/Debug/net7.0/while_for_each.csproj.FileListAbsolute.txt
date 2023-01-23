@@ -1,0 +1,15 @@
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\bin\Debug\net7.0\while_for_each.exe
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\bin\Debug\net7.0\while_for_each.deps.json
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\bin\Debug\net7.0\while_for_each.runtimeconfig.json
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\bin\Debug\net7.0\while_for_each.dll
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\bin\Debug\net7.0\while_for_each.pdb
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\obj\Debug\net7.0\while_for_each.csproj.AssemblyReference.cache
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\obj\Debug\net7.0\while_for_each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\obj\Debug\net7.0\while_for_each.AssemblyInfoInputs.cache
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\obj\Debug\net7.0\while_for_each.AssemblyInfo.cs
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\obj\Debug\net7.0\while_for_each.csproj.CoreCompileInputs.cache
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\obj\Debug\net7.0\while_for_each.dll
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\obj\Debug\net7.0\refint\while_for_each.dll
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\obj\Debug\net7.0\while_for_each.pdb
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\obj\Debug\net7.0\while_for_each.genruntimeconfig.cache
+C:\Users\argeuser\Desktop\Visual_Studio\while_for_each\obj\Debug\net7.0\ref\while_for_each.dll
